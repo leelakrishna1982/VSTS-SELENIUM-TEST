@@ -1,0 +1,16 @@
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\VSTS SELENIUM TEST.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\VSTS SELENIUM TEST.pdb
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\WebDriver.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\bin\Debug\WebDriver.xml
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\obj\Debug\VSTS SELENIUM TEST.csprojAssemblyReference.cache
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\obj\Debug\VSTS SELENIUM TEST.csproj.CoreCompileInputs.cache
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\obj\Debug\VSTS SELENIUM TEST.csproj.CopyComplete
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\obj\Debug\VSTS SELENIUM TEST.dll
+C:\Users\LEELAKrishna\source\repos\VSTS SELENIUM TEST\VSTS SELENIUM TEST\obj\Debug\VSTS SELENIUM TEST.pdb

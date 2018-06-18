@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTS SELENIUM TEST", "VSTS SELENIUM TEST\VSTS SELENIUM TEST.csproj", "{987B399F-D7C2-4DA4-8358-51079F39D389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987B399F-D7C2-4DA4-8358-51079F39D389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987B399F-D7C2-4DA4-8358-51079F39D389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987B399F-D7C2-4DA4-8358-51079F39D389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987B399F-D7C2-4DA4-8358-51079F39D389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D6505BD-E94C-4935-96C8-030277A7DABA}
+	EndGlobalSection
+EndGlobal
